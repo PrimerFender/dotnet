@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/ClassLibraryProjects/StringLibraryTest/StringLibraryTest.csproj",
+                "${workspaceFolder}/arrays/arrays.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/ClassLibraryProjects/StringLibraryTest/StringLibraryTest.csproj",
+                "${workspaceFolder}/arrays/arrays.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/ClassLibraryProjects/StringLibraryTest/StringLibraryTest.csproj",
+                "${workspaceFolder}/arrays/arrays.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
